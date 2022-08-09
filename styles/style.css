@@ -61,7 +61,7 @@ body {
 }
 .container .message p {
   font-style: italic;
-  line-height: 23px;
+  line-height: 24px;
   width: 250px;
   opacity: 0;
   font-size: 14px;
